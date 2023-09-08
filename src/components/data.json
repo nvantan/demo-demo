@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "457071164058296320",
+    "name": "Giải vòng loại vô địch U21 châu Âu UEFA",
+    "matches": [
+      {
+        "id": "485240876382306304",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "U21 Armenia",
+        "teamBName": "U21 Albania",
+        "teamAScore": "0",
+        "teamBScore": "2",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [-0.95, 0.79]
+            },
+            {
+              "betRate": "0.25",
+              "winRates": [-0.68, 0.52]
+            },
+            {
+              "betRate": "0.25",
+              "winRates": [0.66, -0.82]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [0.97, 0.85]
+            },
+            {
+              "betRate": "3.25",
+              "winRates": [0.68, -0.86]
+            },
+            {
+              "betRate": "3.75",
+              "winRates": [-0.77, 0.59]
+            }
+          ],
+          "double": []
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [-0.91, 0.75]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.5",
+              "winRates": [-0.4, 0.26]
+            }
+          ],
+          "double": []
+        }
+      },
+      {
+        "id": "485240891003650048",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "U21 Latvia",
+        "teamBName": "U21 Ý",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.56, -0.72]
+            },
+            {
+              "betRate": "0.0",
+              "winRates": [-0.25, 0.09]
+            },
+            {
+              "betRate": "0.5",
+              "winRates": [0.26, -0.42]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "0.5",
+              "winRates": [-0.52, 0.34]
+            },
+            {
+              "betRate": "0.75",
+              "winRates": [-0.33, 0.15]
+            }
+          ],
+          "double": [13, 3.74, 1.33]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "464508377041743872",
+    "name": "Giải bóng đá Chile - Primera B",
+    "matches": [
+      {
+        "id": "486570738682494976",
+        "time": "2023-09-08T15:30:00Z",
+        "teamAName": "Deportes Recoleta",
+        "teamBName": "Cobreloa",
+        "teamAScore": "0",
+        "teamBScore": "1",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.85, 0.99]
+            },
+            {
+              "betRate": "0.25",
+              "winRates": [-0.92, 0.76]
+            },
+            {
+              "betRate": "0.25",
+              "winRates": [0.63, -0.79]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.25",
+              "winRates": [0.8, -0.98]
+            },
+            {
+              "betRate": "3.0",
+              "winRates": [0.54, -0.72]
+            },
+            {
+              "betRate": "3.5",
+              "winRates": [-0.98, 0.8]
+            }
+          ],
+          "double": [5.4, 1.56, 3.69]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.92, 0.92]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.75",
+              "winRates": [0.78, -0.96]
+            }
+          ],
+          "double": [11, 1.3, 4.08]
+        }
+      }
+    ]
+  },
+  {
+    "id": "364875840494092288",
+    "name": "Giải giao hữu quốc tế U20",
+    "matches": [
+      {
+        "id": "487228818294325248",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "Poland U20",
+        "teamBName": "Portugal U20",
+        "teamAScore": "3",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.7, -0.86]
+            },
+            {
+              "betRate": "0.0",
+              "winRates": [-0.89, 0.73]
+            },
+            {
+              "betRate": "0.5",
+              "winRates": [0.48, -0.64]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "4.5",
+              "winRates": [0.84, 0.98]
+            },
+            {
+              "betRate": "4.25",
+              "winRates": [0.56, -0.74]
+            },
+            {
+              "betRate": "4.75",
+              "winRates": [-0.89, 0.71]
+            }
+          ],
+          "double": [1.01, 22, 15]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.97, 0.87]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [-0.26, 0.14]
+            }
+          ],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "481841406152081408",
+    "name": "Giao hữu",
+    "matches": [
+      {
+        "id": "487920138935668736",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "NRB Teleghma",
+        "teamBName": "MO Constantine",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.95, 0.85]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.0",
+              "winRates": [0.83, 0.97]
+            }
+          ],
+          "double": [2.17, 3.06, 3.11]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.67, -0.87]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "0.5",
+              "winRates": [0.83, 0.97]
+            }
+          ],
+          "double": [3.42, 4.52, 1.68]
+        }
+      },
+      {
+        "id": "487969760769015808",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "Al Ain [UAE]",
+        "teamBName": "Al Muharraq",
+        "teamAScore": "2",
+        "teamBScore": "1",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.88, 0.92]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "4.5",
+              "winRates": [0.88, 0.92]
+            }
+          ],
+          "double": [1.26, 9.1, 4.81]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.64, -0.84]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [-0.32, 0.18]
+            }
+          ],
+          "double": [1.04, 27, 8.9]
+        }
+      },
+      {
+        "id": "487579617881030656",
+        "time": "2023-09-08T15:30:00Z",
+        "teamAName": "Cracovia",
+        "teamBName": "Zaglebie Sosnowiec",
+        "teamAScore": "1",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.75",
+              "winRates": [0.97, 0.83]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.25",
+              "winRates": [0.85, 0.95]
+            }
+          ],
+          "double": [1.2, 8.8, 6.1]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.95, 0.85]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.75",
+              "winRates": [0.77, -0.97]
+            }
+          ],
+          "double": [1.13, 20, 5.9]
+        }
+      },
+      {
+        "id": "487798737654317056",
+        "time": "2023-09-08T14:45:00Z",
+        "teamAName": "Arda Kardzhali",
+        "teamBName": "Lokomotiv Plovdiv",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "BreakAfterFirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.83, 0.97]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.25",
+              "winRates": [-0.97, 0.77]
+            }
+          ],
+          "double": [2.87, 3.05, 2.3]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "487798741374668800",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "Beroe",
+        "teamBName": "Etar Veliko Tarnovo",
+        "teamAScore": "1",
+        "teamBScore": "0",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [-0.84, 0.64]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.5",
+              "winRates": [-0.39, 0.23]
+            }
+          ],
+          "double": [1.1, 32, 6.1]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "463334425045069824",
+    "name": "Giải Trẻ Argentina",
+    "matches": [
+      {
+        "id": "486782624275382272",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "Gimnasia La Plata [R]",
+        "teamBName": "Huracan [R]",
+        "teamAScore": "2",
+        "teamBScore": "1",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.42, -0.62]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [-0.65, 0.45]
+            }
+          ],
+          "double": [1.22, 22, 4.06]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "487676038995050496",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "Colon Santa Fe [R]",
+        "teamBName": "Instituto AC Cordoba [R]",
+        "teamAScore": "2",
+        "teamBScore": "0",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [-0.92, 0.72]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.5",
+              "winRates": [-0.31, 0.17]
+            }
+          ],
+          "double": []
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "476795403166318592",
+    "name": "Giải 1. NL - Croatia",
+    "matches": [
+      {
+        "id": "486504557711736832",
+        "time": "2023-09-08T14:30:00Z",
+        "teamAName": "NK Sesvete",
+        "teamBName": "Vukovar 91",
+        "teamAScore": "1",
+        "teamBScore": "0",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.97, 0.83]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.0",
+              "winRates": [-0.9, 0.7]
+            }
+          ],
+          "double": [1.33, 9.7, 3.97]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "457284028060721152",
+    "name": "Giải Phần Lan - Kakkonen",
+    "matches": [
+      {
+        "id": "487190653747609600",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "Atlantis FC II",
+        "teamBName": "PKKU",
+        "teamAScore": "0",
+        "teamBScore": "1",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.75, -0.95]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.75",
+              "winRates": [0.85, 0.95]
+            }
+          ],
+          "double": [5.7, 1.49, 3.82]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.79, -0.99]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.5",
+              "winRates": [-0.28, 0.14]
+            }
+          ],
+          "double": [31, 1.03, 9.6]
+        }
+      }
+    ]
+  },
+  {
+    "id": "474257222663499776",
+    "name": "Giải 2 Liga - Ba Lan",
+    "matches": [
+      {
+        "id": "485241416633827328",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "GKS Jastrzebie",
+        "teamBName": "Lech Poznan II",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.7, -0.9]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.5",
+              "winRates": [-0.95, 0.75]
+            }
+          ],
+          "double": [2.54, 3.13, 2.52]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.7, -0.9]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "0.5",
+              "winRates": [-0.17, 0.05]
+            }
+          ],
+          "double": [10.9, 12, 1.07]
+        }
+      }
+    ]
+  },
+  {
+    "id": "452346249958748160",
+    "name": "Giải nữ Chile - Primera League",
+    "matches": [
+      {
+        "id": "487624715855478784",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "Universidad de Concepcion [W]",
+        "teamBName": "Fernandez Vial [W]",
+        "teamAScore": "1",
+        "teamBScore": "3",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.38, -0.62]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "4.5",
+              "winRates": [-0.59, 0.35]
+            }
+          ],
+          "double": []
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "479998016246587392",
+    "name": "Giải 2. NL - Croatia",
+    "matches": [
+      {
+        "id": "487436735605968896",
+        "time": "2023-09-08T14:30:00Z",
+        "teamAName": "Dragovoljac",
+        "teamBName": "NK Opatija",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.93, 0.83]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.0",
+              "winRates": [0.81, 0.95]
+            }
+          ],
+          "double": [2.93, 2.93, 2.14]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "487436738676199424",
+        "time": "2023-09-08T14:30:00Z",
+        "teamAName": "NK Grobnican",
+        "teamBName": "Hrvace",
+        "teamAScore": "3",
+        "teamBScore": "0",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [-0.94, 0.7]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "4.0",
+              "winRates": [0.9, 0.86]
+            }
+          ],
+          "double": []
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "474809065726636032",
+    "name": "Giải Cộng hoà Séc - 3. League",
+    "matches": [
+      {
+        "id": "487423766201438208",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "SK Sokol Brozany",
+        "teamBName": "Usti Nad Labem",
+        "teamAScore": "0",
+        "teamBScore": "1",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [-0.97, 0.73]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.5",
+              "winRates": [0.9, 0.86]
+            }
+          ],
+          "double": [5.3, 1.47, 3.51]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.79, 0.97]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.5",
+              "winRates": [-0.28, 0.12]
+            }
+          ],
+          "double": [21, 1.02, 8.1]
+        }
+      },
+      {
+        "id": "487423759079505920",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "FC Zlinsko",
+        "teamBName": "MFK Karvina B",
+        "teamAScore": "0",
+        "teamBScore": "2",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.86, 0.9]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.75",
+              "winRates": [0.86, 0.9]
+            }
+          ],
+          "double": [10.6, 1.09, 7.2]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.81, 0.95]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.5",
+              "winRates": [-0.29, 0.13]
+            }
+          ],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "475172876774121472",
+    "name": "Giải bóng đá Cộng Hòa Séc, 5. League",
+    "matches": [
+      {
+        "id": "487526391848697856",
+        "time": "2023-09-08T15:30:00Z",
+        "teamAName": "FK Jaromer",
+        "teamBName": "TJ Dobruska",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.93, 0.83]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.75",
+              "winRates": [0.79, 0.97]
+            }
+          ],
+          "double": [2.71, 1.95, 3.73]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [
+            {
+              "betRate": "1.0",
+              "winRates": [0.81, 0.95]
+            }
+          ],
+          "double": [3.34, 2.64, 2.12]
+        }
+      }
+    ]
+  },
+  {
+    "id": "467557394436956160",
+    "name": "Giải Kolmonen - Phần Lan",
+    "matches": [
+      {
+        "id": "487493450078687232",
+        "time": "2023-09-08T15:30:00Z",
+        "teamAName": "Mikkelin Palloilijat II",
+        "teamBName": "KoPa",
+        "teamAScore": "1",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "3.25",
+              "winRates": [-0.96, 0.72]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "5.5",
+              "winRates": [0.83, 0.93]
+            }
+          ],
+          "double": []
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "1.0",
+              "winRates": [0.81, 0.95]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.5",
+              "winRates": [0.85, 0.91]
+            }
+          ],
+          "double": [1.02, 18, 9.1]
+        }
+      },
+      {
+        "id": "487527660545916928",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "KaaPo Kaarina",
+        "teamBName": "AIFK Turku",
+        "teamAScore": "0",
+        "teamBScore": "1",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.86, 0.9]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.0",
+              "winRates": [0.97, 0.79]
+            }
+          ],
+          "double": [6.8, 1.29, 4.48]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [
+            {
+              "betRate": "1.5",
+              "winRates": [-0.33, 0.17]
+            }
+          ],
+          "double": []
+        }
+      },
+      {
+        "id": "487488458609463296",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "RiPS",
+        "teamBName": "ToTe",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.5",
+              "winRates": [0.76, 1]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.75",
+              "winRates": [0.75, -0.99]
+            }
+          ],
+          "double": [3.78, 1.84, 2.95]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [-0.7, 0.46]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "0.5",
+              "winRates": [-0.34, 0.18]
+            }
+          ],
+          "double": [8.2, 5.8, 1.17]
+        }
+      },
+      {
+        "id": "487493461311029248",
+        "time": "2023-09-08T15:15:00Z",
+        "teamAName": "Puistolan Urheilijat",
+        "teamBName": "HyPS",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "1.25",
+              "winRates": [0.88, 0.88]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.5",
+              "winRates": [0.95, 0.81]
+            }
+          ],
+          "double": [1.33, 6.3, 4.07]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.93, 0.83]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "0.5",
+              "winRates": [0.9, 0.86]
+            }
+          ],
+          "double": [2.44, 7.2, 1.63]
+        }
+      },
+      {
+        "id": "487493442428276736",
+        "time": "2023-09-08T15:30:00Z",
+        "teamAName": "Edustus IPS",
+        "teamBName": "Mikkelin Kissat",
+        "teamAScore": "1",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "1.25",
+              "winRates": [0.81, 0.95]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "5.75",
+              "winRates": [0.9, 0.86]
+            }
+          ],
+          "double": [1.17, 7.2, 6.5]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.5",
+              "winRates": [0.83, 0.93]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.75",
+              "winRates": [0.88, 0.88]
+            }
+          ],
+          "double": [1.16, 10.3, 5.2]
+        }
+      },
+      {
+        "id": "487471346595725312",
+        "time": "2023-09-08T15:15:00Z",
+        "teamAName": "HIFK 2",
+        "teamBName": "FC Espoo",
+        "teamAScore": "1",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.9, 0.86]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.75",
+              "winRates": [0.97, 0.79]
+            }
+          ],
+          "double": [1.34, 5.4, 4.49]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.59, -0.83]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.5",
+              "winRates": [0.88, 0.88]
+            }
+          ],
+          "double": [1.15, 15, 4.87]
+        }
+      }
+    ]
+  },
+  {
+    "id": "472997478724304896",
+    "name": "Giải  NB III, Hungary",
+    "matches": [
+      {
+        "id": "487437532179742720",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "Szolnoki MAV FC",
+        "teamBName": "Cegledi VSE",
+        "teamAScore": "2",
+        "teamBScore": "2",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.56, -0.8]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "4.5",
+              "winRates": [-0.33, 0.17]
+            }
+          ],
+          "double": [6.5, 7.7, 1.16]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "474259355949367296",
+    "name": "Giải hạng 3 - Ba Lan",
+    "matches": [
+      {
+        "id": "486606584068456448",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "KS Wiazownica",
+        "teamBName": "Podhale Nowy Targ",
+        "teamAScore": "1",
+        "teamBScore": "1",
+        "status": "BreakAfterFirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [-0.99, 0.75]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [0.93, 0.83]
+            }
+          ],
+          "double": [2.27, 3.08, 2.62]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [
+            {
+              "betRate": "2.5",
+              "winRates": [-0.23, 0.07]
+            }
+          ],
+          "double": [8.8, 10, 1.07]
+        }
+      },
+      {
+        "id": "487012464068984832",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "KTS-K Luzino",
+        "teamBName": "Sokol Kleczew",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.75, -0.99]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.75",
+              "winRates": [0.81, 0.95]
+            }
+          ],
+          "double": [2.83, 2.26, 2.83]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [-0.97, 0.73]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "0.5",
+              "winRates": [-0.28, 0.12]
+            }
+          ],
+          "double": [8.1, 7.7, 1.12]
+        }
+      },
+      {
+        "id": "487012470209445888",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "Unia Swarzedz",
+        "teamBName": "Polonia Sroda Wielkopolska",
+        "teamAScore": "1",
+        "teamBScore": "1",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "1.0",
+              "winRates": [0.88, 0.88]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "4.0",
+              "winRates": [0.97, 0.79]
+            }
+          ],
+          "double": [1.43, 6.2, 3.36]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [-0.45, 0.21]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.5",
+              "winRates": [-0.32, 0.16]
+            }
+          ],
+          "double": [5.2, 11, 1.16]
+        }
+      }
+    ]
+  },
+  {
+    "id": "481127780999036928",
+    "name": "Giải Liga 3, Romania",
+    "matches": [
+      {
+        "id": "485240475486613504",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "Muscelul Campulung",
+        "teamBName": "SC Popesti Leordeni",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [-0.92, 0.68]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "0.5",
+              "winRates": [-0.33, 0.17]
+            }
+          ],
+          "double": []
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "487726063309570048",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "CSM Focsani",
+        "teamBName": "Vointa Limpezis",
+        "teamAScore": "1",
+        "teamBScore": "1",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.5",
+              "winRates": [1, 0.76]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.5",
+              "winRates": [0.9, 0.86]
+            }
+          ],
+          "double": [1.82, 15, 1.82]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240448047398912",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "CS Sporting Rosiori",
+        "teamBName": "ACS Vedita Colonesti",
+        "teamAScore": "1",
+        "teamBScore": "3",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [-0.67, 0.43]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "4.5",
+              "winRates": [-0.61, 0.37]
+            }
+          ],
+          "double": []
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240335640051712",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "ACS Viitorul Cluj",
+        "teamBName": "CS Unirea Ungheni 2018",
+        "teamAScore": "0",
+        "teamBScore": "3",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.59, -0.83]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [-0.78, 0.54]
+            }
+          ],
+          "double": []
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240332070776832",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "ACS Targu Mures 1898",
+        "teamBName": "Metalurgistul Cugir",
+        "teamAScore": "1",
+        "teamBScore": "2",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.54, -0.78]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [-0.94, 0.7]
+            }
+          ],
+          "double": [18, 1.07, 6.3]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240461456588800",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "FC Pucioasa",
+        "teamBName": "CS Tricolorul Breaza",
+        "teamAScore": "2",
+        "teamBScore": "2",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.45, -0.69]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "4.5",
+              "winRates": [-0.56, 0.32]
+            }
+          ],
+          "double": [4.16, 7.2, 1.3]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240327700312064",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "ACS Kids Tampa Brasov",
+        "teamBName": "ACS Olimpic Zarnesti",
+        "teamAScore": "1",
+        "teamBScore": "1",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.59, -0.83]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.5",
+              "winRates": [-0.67, 0.43]
+            }
+          ],
+          "double": [4.26, 5.8, 1.33]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240464514236416",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "Ineu",
+        "teamBName": "CSC Peciu Nou",
+        "teamAScore": "0",
+        "teamBScore": "0",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [-0.99, 0.75]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "0.5",
+              "winRates": [-0.59, 0.35]
+            }
+          ],
+          "double": [5.8, 4.7, 1.3]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240349741379584",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "CS Lotus Baile Felix",
+        "teamBName": "Sanatatea Cluj",
+        "teamAScore": "2",
+        "teamBScore": "1",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.49, -0.73]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [-0.67, 0.43]
+            }
+          ],
+          "double": [1.07, 20, 6.3]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240323904466944",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "ACS Inainte Modelu",
+        "teamBName": "CS Afumati ",
+        "teamAScore": "0",
+        "teamBScore": "4",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.52, -0.76]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "4.5",
+              "winRates": [-0.5, 0.32]
+            }
+          ],
+          "double": []
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240471485247488",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "Muresul Deva",
+        "teamBName": "Ghiroda Si Giarmata VII",
+        "teamAScore": "1",
+        "teamBScore": "2",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.38, -0.62]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [-0.64, 0.4]
+            }
+          ],
+          "double": [19, 1.17, 4.18]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240343101796352",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "Avantul Periam",
+        "teamBName": "CS Phoenix Buzias",
+        "teamAScore": "1",
+        "teamBScore": "2",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.66, -0.9]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [-0.94, 0.7]
+            }
+          ],
+          "double": [20, 1.06, 6.7]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "485240346616623104",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "CS Gilortul Targu Carbunesti",
+        "teamBName": "ACS Viitorul Simian",
+        "teamAScore": "2",
+        "teamBScore": "1",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.7, -0.94]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "3.5",
+              "winRates": [-0.5, 0.32]
+            }
+          ],
+          "double": [1.07, 21, 6.2]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "478116366059331584",
+    "name": "Romania - Liga 4",
+    "matches": [
+      {
+        "id": "487920462207451136",
+        "time": "2023-09-08T14:00:00Z",
+        "teamAName": "ASCS Petrolul 95",
+        "teamBName": "CS Brazi",
+        "teamAScore": "3",
+        "teamBScore": "1",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.88, 0.88]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "4.75",
+              "winRates": [0.73, -0.97]
+            }
+          ],
+          "double": []
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "472290393678184448",
+    "name": "Giải hạng Hai Slovenia",
+    "matches": [
+      {
+        "id": "485241334916251648",
+        "time": "2023-09-08T14:30:00Z",
+        "teamAName": "NK Bistrica",
+        "teamBName": "ND Ilirija 1911",
+        "teamAScore": "1",
+        "teamBScore": "0",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.93, 0.83]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.25",
+              "winRates": [0.93, 0.83]
+            }
+          ],
+          "double": [1.2, 9.4, 4.89]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "487500971958878208",
+    "name": "Giải Tây Ban Nha Tercera RFEF",
+    "matches": [
+      {
+        "id": "487501633081905152",
+        "time": "2023-09-08T15:00:00Z",
+        "teamAName": "UC Ceares",
+        "teamBName": "Condal",
+        "teamAScore": "0",
+        "teamBScore": "1",
+        "status": "FirstHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.5",
+              "winRates": [0.9, 0.86]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.25",
+              "winRates": [0.88, 0.88]
+            }
+          ],
+          "double": [4.05, 1.75, 3.02]
+        },
+        "firstHalf": {
+          "handicap": [
+            {
+              "betRate": "0.0",
+              "winRates": [0.38, -0.62]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "1.5",
+              "winRates": [-0.24, 0.08]
+            }
+          ],
+          "double": [22, 1.03, 7.4]
+        }
+      },
+      {
+        "id": "487501639977336832",
+        "time": "2023-09-08T14:30:00Z",
+        "teamAName": "Villarreal III",
+        "teamBName": "CD Roda",
+        "teamAScore": "0",
+        "teamBScore": "1",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [
+            {
+              "betRate": "0.25",
+              "winRates": [0.88, 0.88]
+            }
+          ],
+          "overUnder": [
+            {
+              "betRate": "2.0",
+              "winRates": [-0.97, 0.73]
+            }
+          ],
+          "double": [5.8, 1.48, 3.24]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "364129222442467328",
+    "name": "E-Soccer Battle - 8 phút",
+    "matches": [
+      {
+        "id": "488004567980900352",
+        "time": "2023-09-08T15:34:00Z",
+        "teamAName": "Spain (Vicmestro)",
+        "teamBName": "Germany (Dacum)",
+        "teamAScore": "1",
+        "teamBScore": "1",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [],
+          "overUnder": [
+            {
+              "betRate": "3.0",
+              "winRates": [0.79, 0.89]
+            }
+          ],
+          "double": [7.2, 5.6, 1.31]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      },
+      {
+        "id": "488004565745340416",
+        "time": "2023-09-08T15:34:00Z",
+        "teamAName": "Belgium (MakcwellLm)",
+        "teamBName": "Netherlands (Zyen)",
+        "teamAScore": "1",
+        "teamBScore": "2",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [],
+          "overUnder": [
+            {
+              "betRate": "3.0",
+              "winRates": [0.82, 0.86]
+            }
+          ],
+          "double": [36, 1.17, 5]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  },
+  {
+    "id": "462958263085096960",
+    "name": "E-Soccer GT Leagues - 12 phút chơi",
+    "matches": [
+      {
+        "id": "488004686109278208",
+        "time": "2023-09-08T15:30:00Z",
+        "teamAName": "Union Berlin (Pontiac)",
+        "teamBName": "RB Leipzig (Dennis)",
+        "teamAScore": "4",
+        "teamBScore": "2",
+        "status": "SecondHalf",
+        "fullMatch": {
+          "handicap": [],
+          "overUnder": [
+            {
+              "betRate": "4.25",
+              "winRates": [0.84, 0.84]
+            }
+          ],
+          "double": [1.13, 31, 6]
+        },
+        "firstHalf": {
+          "handicap": [],
+          "overUnder": [],
+          "double": []
+        }
+      }
+    ]
+  }
+]
